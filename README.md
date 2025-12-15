@@ -11,7 +11,7 @@
 * **객체 지향 프로그래밍 (Lecture 6):** `AccountBook` 클래스를 통해 데이터를 관리하고 기능을 모듈화했다.
 * **파일 입출력 및 데이터 보존 (Lecture 8):** `csv` 모듈을 사용하여 데이터를 파일로 영구 저장하며, 프로그램 재실행 시에도 데이터가 유지됩니다.
 * **자산 현황 요약 및 분석 (Lecture 9):** `Pandas`를 활용하여 **총 수입, 총 지출, 현재 잔액**을 즉시 계산하여 보여줍니다.
-* **데이터 시각화 (Lecture 9):** `Matplotlib`을 사용하여 소비 카테고리별 지출 비율을 **파이 차트(Pie Chart)**로 시각화합니다.
+* **데이터 시각화 (Lecture 9):** `Matplotlib`을 사용하여 소비 카테고리별 지출 비율을 **원그래프**로 시각화합니다.
 * **Pythonic Code (Lecture 5):** `List Comprehension`, `enumerate` 등을 사용하여 효율적인 코드를 작성했다.
 
 ## 3. 파일 구조
@@ -32,9 +32,9 @@ PyAccountant/
    ```
 
 ## 5. 실행 결과
-<img width="310" height="271" alt="image" src="https://github.com/user-attachments/assets/affa21b5-c6fd-41d0-aa26-4a17b91c31ec" />
-<img width="740" height="271" alt="image" src="https://github.com/user-attachments/assets/a65d89bb-3252-4914-ad2a-9e7c946428e0" />
-<img width="278" height="552" alt="image" src="https://github.com/user-attachments/assets/460009e2-36be-441b-928a-a38cb68b55a6" />
-<img width="695" height="532" alt="image" src="https://github.com/user-attachments/assets/0cdbe7cd-cf98-4a27-8844-51be82d4f1f3" />
+<img width="767" height="618" alt="image" src="https://github.com/user-attachments/assets/e263ed9a-f8eb-46f0-8a9c-ddd19da1a3bc" />
+<img width="397" height="546" alt="image" src="https://github.com/user-attachments/assets/947ce075-eba3-4c54-8420-af3a238cab96" />
+<img width="766" height="341" alt="Figure_1" src="https://github.com/user-attachments/assets/d8455312-260e-4836-a5c9-b1a658ca34bf" />
+
 
 
