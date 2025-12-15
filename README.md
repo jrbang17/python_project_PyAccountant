@@ -15,7 +15,7 @@
 PyAccountant/
 │
 ├── main.py              # 프로그램 실행 파일 (메인)
-├── README.md            # 과제 제출용 설명 파일
+├── README.md            # 설명 파일
 ├── account_manager.py   # 가계부 클래스 및 기능 로직 (객체 지향 프로그래밍)
 ├── data_analysis.py     # Pandas & Matplotlib 분석 모듈
 └── ledger.csv           # 데이터 저장용 CSV (자동 생성됨)
