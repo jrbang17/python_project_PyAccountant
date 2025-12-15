@@ -11,7 +11,7 @@
 * **Pythonic Code (Lecture 5):** `List Comprehension`, `enumerate` 등을 사용하여 효율적인 코드를 작성했습니다.
 
 ## 3. 파일 구조
-'''text
+```text
 PyAccountant/
 │
 ├── main.py              # 프로그램 실행 파일 (메인)
@@ -19,13 +19,14 @@ PyAccountant/
 ├── account_manager.py   # 가계부 클래스 및 기능 로직 (객체 지향 프로그래밍)
 ├── data_analysis.py     # Pandas & Matplotlib 분석 모듈
 └── ledger.csv           # 데이터 저장용 CSV (자동 생성됨)
-'''
+```
 
 ## 4. 실행 방법
 필요한 라이브러리 설치:
    ```bash
    pip install pandas matplotlib
-   
+   ```
+
 ## 5. 실행 결과
 <img width="310" height="271" alt="image" src="https://github.com/user-attachments/assets/affa21b5-c6fd-41d0-aa26-4a17b91c31ec" />
 <img width="740" height="271" alt="image" src="https://github.com/user-attachments/assets/a65d89bb-3252-4914-ad2a-9e7c946428e0" />
