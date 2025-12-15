@@ -16,7 +16,8 @@
    pip install pandas matplotlib
    
 ## 4. 실행 결과
-<img width="1000" height="952" alt="image" src="https://github.com/user-attachments/assets/b64db6b5-c16a-43ba-8d46-89d5102b0b86" />
 <img width="310" height="271" alt="image" src="https://github.com/user-attachments/assets/affa21b5-c6fd-41d0-aa26-4a17b91c31ec" />
 <img width="740" height="271" alt="image" src="https://github.com/user-attachments/assets/a65d89bb-3252-4914-ad2a-9e7c946428e0" />
 <img width="266" height="182" alt="image" src="https://github.com/user-attachments/assets/ebd01b9c-0cff-47d6-a254-28c5d5d21cf0" />
+<img width="266" height="182" alt="image" src="https://github.com/user-attachments/assets/da5598c9-e584-4bda-b31a-5048ff929218" />
+
