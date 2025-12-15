@@ -34,7 +34,8 @@ PyAccountant/
 ## 5. 실행 결과
 <img width="767" height="618" alt="image" src="https://github.com/user-attachments/assets/e263ed9a-f8eb-46f0-8a9c-ddd19da1a3bc" />
 <img width="397" height="546" alt="image" src="https://github.com/user-attachments/assets/947ce075-eba3-4c54-8420-af3a238cab96" />
-<img width="766" height="341" alt="Figure_1" src="https://github.com/user-attachments/assets/d8455312-260e-4836-a5c9-b1a658ca34bf" />
+<img width="546" height="522" alt="image" src="https://github.com/user-attachments/assets/6b265224-c68e-499e-934c-7d4e2888ffef" />
+
 
 
 
