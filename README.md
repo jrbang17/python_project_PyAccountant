@@ -10,12 +10,21 @@
 * **데이터 분석 & 시각화 (Lecture 9):** `Pandas`로 데이터를 그룹화(Groupby)하고 `Matplotlib`으로 파이 차트를 그려 소비 성향을 한눈에 파악합니다.
 * **Pythonic Code (Lecture 5):** `List Comprehension`, `enumerate` 등을 사용하여 효율적인 코드를 작성했습니다.
 
-## 3. 실행 방법
-1. 필요한 라이브러리 설치:
+## 3. 파일 구조
+PyAccountant/
+│
+├── main.py              # 프로그램 실행 파일 (메인)
+├── README.md            # 과제 제출용 설명 파일
+├── account_manager.py   # 가계부 클래스 및 기능 로직 (객체 지향 프로그래밍)
+├── data_analysis.py     # Pandas & Matplotlib 분석 모듈
+└── ledger.csv           # 데이터 저장용 CSV (자동 생성됨)
+
+## 4. 실행 방법
+필요한 라이브러리 설치:
    ```bash
    pip install pandas matplotlib
    
-## 4. 실행 결과
+## 5. 실행 결과
 <img width="310" height="271" alt="image" src="https://github.com/user-attachments/assets/affa21b5-c6fd-41d0-aa26-4a17b91c31ec" />
 <img width="740" height="271" alt="image" src="https://github.com/user-attachments/assets/a65d89bb-3252-4914-ad2a-9e7c946428e0" />
 <img width="266" height="182" alt="image" src="https://github.com/user-attachments/assets/ebd01b9c-0cff-47d6-a254-28c5d5d21cf0" />
