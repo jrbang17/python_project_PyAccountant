@@ -29,6 +29,8 @@ PyAccountant/
 필요한 라이브러리 설치:
    ```bash
    pip install pandas matplotlib
+
+   python main.py
    ```
 
 ## 5. 실행 결과
