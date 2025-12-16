@@ -26,11 +26,11 @@ PyAccountant/
 ```
 
 ## 4. 실행 방법
-필요한 라이브러리 설치:
+1. 필요한 라이브러리 설치:
    ```bash
    pip install pandas matplotlib
    ```
-
+2. 프로그램 실행:
    ```bash
    python main.py
    ```
